@@ -1,0 +1,75 @@
+body {margin:0px;
+      padding:0px;}
+
+#header {width :100%;
+         height:100px;}      
+
+.logo {border:1px solid black;
+	   display:inline-block;
+	   width:10%;
+       height:60px;
+       padding:20px;
+       margin:2%;
+       }
+.call  {
+	   display:inline-block;
+	   width:25%;
+	   float:right;
+      
+       padding:20px;
+       margin:1%;
+       }
+
+.slider {border:1px solid black;
+         height:400px;}
+
+.register {margin:80px;
+	       font-weight: bold;
+           }
+
+.circle {font-size: 40px;
+          border-radius: 50%;
+          margin-top:10%;
+	      background-color:yellow;
+	      width:25%;
+	      padding-top: 5%;
+          height:200px;
+	      font-weight: 30px;
+	      text-align: center;
+}
+
+.box {display: none;
+	width:80%;
+	border-radius: 10px;
+	background-color: #E8B291;
+	margin:10px;
+border:1px solid black;
+height:150px;}
+
+#regform {border:1px solid black;
+	      font-size: 25px;
+	      align
+	      
+	      margin:20px;
+	      padding: 20px;
+	      text-align:left;
+          background-color: #f2f2f2;
+          width:55%;
+          height:500px; }
+
+#regform input {margin-left:40px;
+float:right;
+	border-radius: 4px;
+padding:5px;
+margin:5px;} 
+
+#regform input[type=submit] {
+cursor: pointer;
+ border-radius: 4px;
+ border: none;
+ width: 100%;
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;}         
+
